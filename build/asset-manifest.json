@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/WeatherApp-React/static/css/main.0c37de4c.css",
+    "main.js": "/github.io/WeatherApp-React/static/js/main.c3ff383f.js",
+    "static/media/snow.jpg": "/github.io/WeatherApp-React/static/media/snow.ff2ba29355a278616115.jpg",
+    "static/media/cloudy.jpg": "/github.io/WeatherApp-React/static/media/cloudy.cabc0eda62c9b3bca4ed.jpg",
+    "static/media/Rain.jpg": "/github.io/WeatherApp-React/static/media/Rain.3c7118fea480595c9495.jpg",
+    "static/media/mist.jpg": "/github.io/WeatherApp-React/static/media/mist.a702752c1f894db0e578.jpg",
+    "static/media/bg4.jpg": "/github.io/WeatherApp-React/static/media/bg4.deec09096f65bbf8b174.jpg",
+    "static/media/Yekan.ttf": "/github.io/WeatherApp-React/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "index.html": "/github.io/WeatherApp-React/index.html",
+    "main.0c37de4c.css.map": "/github.io/WeatherApp-React/static/css/main.0c37de4c.css.map",
+    "main.c3ff383f.js.map": "/github.io/WeatherApp-React/static/js/main.c3ff383f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c37de4c.css",
+    "static/js/main.c3ff383f.js"
+  ]
+}
